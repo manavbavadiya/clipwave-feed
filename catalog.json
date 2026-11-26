@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T09:59:39Z",
+ "updated": "2026-11-26T10:01:51Z",
  "templates": [
   {
    "id": "lion",
@@ -677,10 +677,7 @@
  "sections": [
   {
    "id": "trending",
-   "title": "Trending",
-   "ids": [
-    "skylift"
-   ]
+   "title": "Trending"
   },
   {
    "id": "retro",
