@@ -1,7 +1,22 @@
 {
  "version": 1,
- "updated": "2026-11-26T09:14:56Z",
+ "updated": "2026-11-26T09:21:35Z",
  "templates": [
+  {
+   "id": "lion",
+   "name": "Lion Roar",
+   "blurb": "Add a selfie. Become a lion and roar 🦁",
+   "section": "trending",
+   "prompt": "The person slowly transforms into a majestic lion with a thick golden mane, the lion opens its mouth and lets out a mighty roar, mane blowing in the wind, warm sunset light and floating dust, slow camera push in, cinematic, realistic",
+   "image": "images/7b6ab298b1a4e943.jpg",
+   "motion": "ZoomIn",
+   "fx": "None",
+   "grade": "None",
+   "hint": "photo",
+   "locked": false,
+   "hidden": false,
+   "photo_prompt": "majestic male lion roaring, thick golden mane, dramatic sunset savanna, close-up portrait, cinematic lighting"
+  },
   {
    "id": "rainy",
    "name": "Rain Mood",
