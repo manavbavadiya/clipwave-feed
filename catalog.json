@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T09:03:44Z",
+ "updated": "2026-11-26T09:12:48Z",
  "templates": [
   {
    "id": "rainy",
@@ -16,7 +16,7 @@
   },
   {
    "id": "skylift",
-   "name": "Fly My Car",
+   "name": "Fly My Car Admin",
    "blurb": "Add your car and watch it take off into the clouds.",
    "section": "trending",
    "prompt": "The car lifts off the ground and flies up into the clouds, the camera follows it rising through the sky, cinematic",
@@ -714,8 +714,7 @@
   },
   {
    "id": "t2v",
-   "title": "Text to Video",
-   "ids": []
+   "title": "Text to Video"
   },
   {
    "id": "mono",
@@ -733,69 +732,55 @@
  "hero": [
   {
    "template": "eighties",
-   "title": "VHS Me",
-   "subtitle": "Rewind your selfie to 1986 📼",
-   "image": "",
-   "image_prompt": ""
+   "title": "Admin Test",
+   "subtitle": "Published from the admin panel",
+   "image": "images/252f9462cd49d977.jpg",
+   "photo_prompt": "red sports car on a neon city street at night"
   },
   {
    "template": "skylift",
    "title": "Fly My Car",
-   "subtitle": "Your car, up in the clouds",
-   "image": "",
-   "image_prompt": ""
+   "subtitle": "Your car, up in the clouds"
   },
   {
    "template": "beatdrop",
    "title": "Beat Drop",
-   "subtitle": "One photo. One beat. Dance.",
-   "image": "",
-   "image_prompt": ""
+   "subtitle": "One photo. One beat. Dance."
   },
   {
    "template": "redcarpet",
    "title": "Red Carpet",
-   "subtitle": "Your camera-flash moment 📸",
-   "image": "",
-   "image_prompt": ""
+   "subtitle": "Your camera-flash moment 📸"
   }
  ],
  "discover": [
   {
+   "prompt": "A paper boat sailing in a rain puddle",
+   "look": "realistic"
+  },
+  {
    "prompt": "Sea turtle gliding over a coral reef, sun rays through the water, slow motion",
-   "look": "realistic",
-   "image": "",
-   "image_prompt": ""
+   "look": "realistic"
   },
   {
    "prompt": "Two curious kittens looking out of a window, soft morning light",
-   "look": "3d",
-   "image": "",
-   "image_prompt": ""
+   "look": "3d"
   },
   {
    "prompt": "Astronaut floating above the Earth, slow drift, stars in the background",
-   "look": "realistic",
-   "image": "",
-   "image_prompt": ""
+   "look": "realistic"
   },
   {
    "prompt": "Rainy street at night, neon signs reflecting on wet roads",
-   "look": "cyberpunk",
-   "image": "",
-   "image_prompt": ""
+   "look": "cyberpunk"
   },
   {
    "prompt": "Hot air balloons rising at sunrise, wide shot",
-   "look": "watercolor",
-   "image": "",
-   "image_prompt": ""
+   "look": "watercolor"
   },
   {
    "prompt": "Lighthouse on a cliff during a storm, huge waves hitting the rocks",
-   "look": "oil",
-   "image": "",
-   "image_prompt": ""
+   "look": "oil"
   }
  ]
 }
