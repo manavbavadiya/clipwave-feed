@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T09:21:35Z",
+ "updated": "2026-11-26T09:23:54Z",
  "templates": [
   {
    "id": "lion",
@@ -13,7 +13,7 @@
    "fx": "None",
    "grade": "None",
    "hint": "photo",
-   "locked": false,
+   "locked": true,
    "hidden": false,
    "photo_prompt": "majestic male lion roaring, thick golden mane, dramatic sunset savanna, close-up portrait, cinematic lighting"
   },
