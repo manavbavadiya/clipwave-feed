@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T09:12:48Z",
+ "updated": "2026-11-26T09:14:56Z",
  "templates": [
   {
    "id": "rainy",
@@ -16,7 +16,7 @@
   },
   {
    "id": "skylift",
-   "name": "Fly My Car Admin",
+   "name": "Fly My Car",
    "blurb": "Add your car and watch it take off into the clouds.",
    "section": "trending",
    "prompt": "The car lifts off the ground and flies up into the clouds, the camera follows it rising through the sky, cinematic",
@@ -732,10 +732,8 @@
  "hero": [
   {
    "template": "eighties",
-   "title": "Admin Test",
-   "subtitle": "Published from the admin panel",
-   "image": "images/252f9462cd49d977.jpg",
-   "photo_prompt": "red sports car on a neon city street at night"
+   "title": "VHS Me",
+   "subtitle": "Rewind your selfie to 1986 📼"
   },
   {
    "template": "skylift",
@@ -754,10 +752,6 @@
   }
  ],
  "discover": [
-  {
-   "prompt": "A paper boat sailing in a rain puddle",
-   "look": "realistic"
-  },
   {
    "prompt": "Sea turtle gliding over a coral reef, sun rays through the water, slow motion",
    "look": "realistic"
